@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PushingPreFlow", "PushingPreFlow\PushingPreFlow.csproj", "{B5E8B043-64D5-489F-9F47-2592C48A1B19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Map", "..\Map\Map\Map.csproj", "{DDE51919-F46B-4202-8B05-C0128C710F91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PushingPreFlowTest", "PushingPreFlowTest\PushingPreFlowTest.csproj", "{0B92A0D5-9AFD-4382-9B76-1EEF6C04910A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5E8B043-64D5-489F-9F47-2592C48A1B19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5E8B043-64D5-489F-9F47-2592C48A1B19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5E8B043-64D5-489F-9F47-2592C48A1B19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5E8B043-64D5-489F-9F47-2592C48A1B19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDE51919-F46B-4202-8B05-C0128C710F91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDE51919-F46B-4202-8B05-C0128C710F91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDE51919-F46B-4202-8B05-C0128C710F91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDE51919-F46B-4202-8B05-C0128C710F91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B92A0D5-9AFD-4382-9B76-1EEF6C04910A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B92A0D5-9AFD-4382-9B76-1EEF6C04910A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B92A0D5-9AFD-4382-9B76-1EEF6C04910A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B92A0D5-9AFD-4382-9B76-1EEF6C04910A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
